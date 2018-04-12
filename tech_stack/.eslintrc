@@ -1,3 +1,6 @@
 {
-  "extends": "rally-coding"
+  "extends": "rallycoding",
+  "rules": {
+    "react/require-extension": "off"
+  }
 }
